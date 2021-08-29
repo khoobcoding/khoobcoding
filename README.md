@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khoobcoding
 - 👀 I’m interested in Python,Web Development,App Development
-- 🌱 I’m currently learning Python,Flutter
+- 🌱 I’m currently learning Python,Mysql,Android Studio,Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
